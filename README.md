@@ -1,3 +1,7 @@
+> :warning: **THIS PACKAGE IS DEPRECATED**
+
+---
+
 # eslint-plugin-gearonix
 
 gearonix plugin
